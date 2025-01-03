@@ -40,9 +40,9 @@ title = 'Faculty Jobs in Business Schools - Business Schools Jobs'
         version   = true # include git commit info in footer
 
     [params.social]
-        github = "articleos/community" # github.com/YOUR_GITHUB_ID
-        twitter = "articleos"            # twitter.com/YOUR_TWITTER_ID
-        # instagram = "colinwilson"      # instagram.com/YOUR_INSTAGRAM_ID
+        github = "businessschoolsjobs/community" # github.com/YOUR_GITHUB_ID
+        # twitter = "#"            # twitter.com/YOUR_TWITTER_ID
+        # instagram = "#"      # instagram.com/YOUR_INSTAGRAM_ID
         # rss = true                     # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
@@ -99,6 +99,6 @@ title = 'Faculty Jobs in Business Schools - Business Schools Jobs'
 
 [[menu.primary]]
     name  = "Community"
-    url = "https://github.com/articleos/community"
+    url = "https://github.com/businessschoolsjobs/community"
     identifier = "community"
     weight = 30
