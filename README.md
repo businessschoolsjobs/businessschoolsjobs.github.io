@@ -1,1 +1,1 @@
-# businessschoolsjobs.github.io
+# articleos.github.io
