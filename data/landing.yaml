@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "Business Schools Jobs"
-  subtitle: "Business Schools Jobs (Faculty Jobs in Business Schools) aims to empower the next generation of business educators and leaders by providing an easy-to-navigate business schools faculty jobs website."
+  subtitle: "Faculty Jobs in Business Schools aims to empower the next generation of business educators and leaders by providing an easy-to-navigate business schools faculty jobs website."
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
