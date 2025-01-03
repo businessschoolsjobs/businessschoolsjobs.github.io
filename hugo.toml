@@ -1,6 +1,6 @@
 baseURL = 'https://businessschoolsjobs.github.io/'
 languageCode = 'en-us'
-title = 'Business Schools Jobs'
+title = 'Faculty Jobs in Business Schools - Business Schools Jobs'
 
 [module]
     [[module.imports]]
